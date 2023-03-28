@@ -1,7 +1,7 @@
 import heapq
 from collections import defaultdict
 import os 
-
+import time
  
 # to map each character its huffman value
 codes = {}
